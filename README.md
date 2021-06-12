@@ -5,3 +5,8 @@
  
    <h1 align="center">𝐄𝐦𝐚𝐢𝐥</h1>
  <p align="center"><img src="https://github.com/Ashish2030/SEARS-COMMUNICATION-SDE-ROLE-SOLUTION-IN-2021/blob/main/Email.png"/> 
+ <h1 align="center">𝐓𝐞𝐬𝐭</h1>
+  <p align="center"><img src="https://github.com/Ashish2030/SEARS-COMMUNICATION-SDE-ROLE-SOLUTION-IN-2021/blob/main/first.png"/> 
+  <h1 align="center">𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧</h1>
+  <p align="center"><img src="https://github.com/Ashish2030/SEARS-COMMUNICATION-SDE-ROLE-SOLUTION-IN-2021/blob/main/third.png"/> 
+ 
